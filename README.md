@@ -20,4 +20,4 @@ The game is literally fun to play with one or two individual!
 
 #Screenshot of the game
 
-https://user-images.githubusercontent.com/130738521/268189192-a27ec779-8dc7-4355-89cd-6667096bab1e.png
+[https://user-images.githubusercontent.com/130738521/268189192-a27ec779-8dc7-4355-89cd-6667096bab1e.png](https://github.com/isteveweb/TicTac-game/issues/1#issue-1897765914)https://github.com/isteveweb/TicTac-game/issues/1#issue-1897765914
